@@ -27,6 +27,7 @@ Follow these steps to set up and run the script:
 git clone https://github.com/wpritam/Token-Joiner
 
 2. Open the file
+   
 cd Token-Joiner
 
 
