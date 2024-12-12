@@ -1,5 +1,5 @@
 # Token-joiner
-Qualwin.Security - Discord Token Inviter
+ - Discord Token Inviter
 
 A Python script developed by Qualwin and Pritam to automate the process of adding verified tokens to a Discord server using an invite link. This tool makes it easy to manage and process tokens while interacting with Discord's API.
 
@@ -24,8 +24,8 @@ Follow these steps to set up and run the script:
 
 1. Clone the Repository
 
-git clone https://github.com/<your-username>/Qualwin.Security.git
-cd Qualwin.Security
+git clone https://github.com/wpritam/Token-Joiner
+cd Token-Joiner
 
 
 2. Install Required Dependencies
